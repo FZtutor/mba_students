@@ -1,0 +1,8 @@
+pandas==1.2.0
+numpy==1.19.4
+geopy==2.1.0
+matplotlib==3.3.3
+seaborn==0.11.1
+bokeh==2.2.3
+sklearn==0.24.0
+watermark==2.2.0
