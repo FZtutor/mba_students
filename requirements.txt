@@ -4,5 +4,4 @@ geopy==2.1.0
 matplotlib==3.3.3
 seaborn==0.11.1
 bokeh==2.2.3
-sklearn==0.22
 watermark==2.2.0
